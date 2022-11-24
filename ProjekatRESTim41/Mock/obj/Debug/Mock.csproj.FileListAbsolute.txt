@@ -1,0 +1,5 @@
+C:\Users\TheMachine\Desktop\TIM41\ProjekatRESTim41\ProjekatRESTim41\Mock\bin\Debug\Mock.dll
+C:\Users\TheMachine\Desktop\TIM41\ProjekatRESTim41\ProjekatRESTim41\Mock\bin\Debug\Mock.pdb
+C:\Users\TheMachine\Desktop\TIM41\ProjekatRESTim41\ProjekatRESTim41\Mock\obj\Debug\Mock.csproj.CoreCompileInputs.cache
+C:\Users\TheMachine\Desktop\TIM41\ProjekatRESTim41\ProjekatRESTim41\Mock\obj\Debug\Mock.dll
+C:\Users\TheMachine\Desktop\TIM41\ProjekatRESTim41\ProjekatRESTim41\Mock\obj\Debug\Mock.pdb
